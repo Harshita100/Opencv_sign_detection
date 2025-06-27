@@ -34,7 +34,8 @@ This project detects and recognizes hand gestures in real-time using MediaPipe f
 - The bounding box and predicted gesture label are drawn on the live video feed.
 
 ## Results
-
+![Hand detection example 1](result_imgs/result1.png)
+![Hand detection example 2](result_imgs/result2.png)
 
 ## Dependencies
 
