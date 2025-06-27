@@ -11,6 +11,9 @@ This project detects and recognizes hand gestures in real-time using MediaPipe f
 - Model training, saving, and loading with pickle
 - Visual feedback with bounding box and gesture label on the video feed
 
+## Results
+![Hand detection example 1](result_imgs/result2.png)
+![Hand detection example 2](result_imgs/result1.png)
 
 ## Dataset Collection
 
